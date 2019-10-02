@@ -1,3 +1,3 @@
 import ev3
 
-print
+print("Hello world")
