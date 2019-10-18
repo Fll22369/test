@@ -1,4 +1,0 @@
-nom = input()
-
-
-print(nom)
