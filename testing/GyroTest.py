@@ -12,7 +12,7 @@ from pybricks.robotics import DriveBase
 brick.sound.beep()
 
 
-maingyro = GyroSensor(Port.S4)
+maingyro = GyroSensor(Port.S3)
 angle = maingyro.angle()
 
 
